@@ -27,5 +27,7 @@ Coming soon!
 
 ## Questions?
 Please contact:
+
 Cecilia La Place: cecilia.laplace@gmail.com
+
 Aisha Urooj: aishaurooj@gmail.com
