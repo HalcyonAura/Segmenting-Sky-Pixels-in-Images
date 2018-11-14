@@ -17,8 +17,8 @@ The following scripts were used to analyze data, automate image replication and 
 * Trained from scratch (ImageNet) [1](https://drive.google.com/file/d/1Ae5nS_ZLgtoKRz_Tw6eJZoSdZE9Gy9W_/view?usp=sharing) [2](https://drive.google.com/file/d/1_9O4H1leb4_bxtmAnxyj03djnlGi_qHy/view?usp=sharing) [3](https://drive.google.com/file/d/1GL-CaSWSEn5oH_SRhVYnJhfJ10HUIhCo/view?usp=sharing)
 
 ## Datasets
-* [SkyFinder]()
-* [SUNdb]()
+* [SkyFinder](https://mypages.valdosta.edu/rpmihail/skyfinder/images/)
+* [SUNdb](https://groups.csail.mit.edu/vision/SUN/)
 
 ## Results
 
